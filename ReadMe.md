@@ -1,4 +1,4 @@
-# Full TesNG Course
+# Full TestNG Course
 
 # Learned
 * Annotations
